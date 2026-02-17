@@ -1,0 +1,7 @@
+{
+  "name": "Hub Gestão PRONIX (TEMP)",
+  "description": "Um hub avançado para gestão de carteira de clientes com sincronização de dados, dashboard de performance e assistente de IA para análise de riscos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
